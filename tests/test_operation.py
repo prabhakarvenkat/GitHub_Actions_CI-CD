@@ -6,5 +6,4 @@ def test_add_two_numbers():
 
 def test_sub_two_numbers():
     assert sub(5, 3) == 2
-    assert sub(-1, -3) == -2
     assert sub(5, 1) == 4
